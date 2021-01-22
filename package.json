@@ -1,0 +1,24 @@
+{
+  "name": "Malik-Egbarya",
+  "version": "1.0.0",
+  "description": "personal profile",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egmalik/Malik-Egbarya.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egmalik/Malik-Egbarya/issues"
+  },
+  "homepage": "https://github.com/egmalik/Malik-Egbarya#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
